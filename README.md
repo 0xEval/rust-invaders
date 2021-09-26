@@ -1,4 +1,4 @@
-Empty skeleton repository based on: https://github.com/CleanCut/invaders
+Empty skeleton repository based on: https://github.com/CleanCut/invaders. It is the final project of CleanCut's [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
 
 # Invaders
 
